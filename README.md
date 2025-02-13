@@ -1,9 +1,14 @@
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fy-yuhcan&theme=tokyonight)
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fy-yuhcan&theme=tokyonight)
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fy-yuhcan&theme=tokyonight)
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fy-yuhcan&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=tokyonight&utcOffset=9)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fy-yuhcan&theme=material_palenight
+)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fy-yuhcan&theme=material_palenight
+)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fy-yuhcan&theme=material_palenight
+)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fy-yuhcan&theme=material_palenight
+)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=material_palenight
+&utcOffset=9)
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
