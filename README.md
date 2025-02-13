@@ -7,8 +7,7 @@
 )
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fy-yuhcan&theme=material_palenight
 )
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=material_palenight
-&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=material_palenight&utcOffset=9)
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
